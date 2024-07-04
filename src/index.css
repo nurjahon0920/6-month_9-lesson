@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: Mulish;
+  src: url("./assets/fonts/Mulish-Regular.ttf");
+}
+body {
+  font-family: sans-serif;
+}
+a {
+  text-decoration: none;
+}
+.container {
+  margin: 0 auto;
+  padding: 0 104px;
+  max-width: 1440px;
+}
