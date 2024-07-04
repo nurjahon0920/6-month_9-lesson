@@ -37,6 +37,7 @@ main {
       flex-wrap: wrap;
       .photo {
         margin-bottom: 10px;
+        cursor: pointer;
         width: 296px;
         img {
           max-width: 296px;
