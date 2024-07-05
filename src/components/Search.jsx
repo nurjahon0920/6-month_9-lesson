@@ -13,11 +13,7 @@ const Search = () => {
     );
     setsearchPhotos(newPhotos);
   };
-  return (
-    <div>
-      <input type="text" placeholder="Searching..." onChange={search} />
-    </div>
-  );
+  return <div></div>;
 };
 
 export default Search;
